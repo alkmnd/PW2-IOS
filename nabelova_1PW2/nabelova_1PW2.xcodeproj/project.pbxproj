@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0970FA6E270216F600C0DEE6 /* UIView_Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0970FA6D270216F600C0DEE6 /* UIView_Pin.swift */; };
+		09D4AE6D271C4FD4009BE775 /* UIView_Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09D4AE6C271C4FD4009BE775 /* UIView_Pin.swift */; };
 		09EE68D826FCA0E200F7DAD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09EE68D726FCA0E200F7DAD9 /* AppDelegate.swift */; };
 		09EE68DA26FCA0E200F7DAD9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09EE68D926FCA0E200F7DAD9 /* SceneDelegate.swift */; };
 		09EE68DC26FCA0E200F7DAD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09EE68DB26FCA0E200F7DAD9 /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0970FA6D270216F600C0DEE6 /* UIView_Pin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIView_Pin.swift; path = ../../../Downloads/UIView_Pin.swift; sourceTree = "<group>"; };
+		09D4AE6C271C4FD4009BE775 /* UIView_Pin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView_Pin.swift; sourceTree = "<group>"; };
 		09EE68D426FCA0E200F7DAD9 /* nabelova_1PW2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nabelova_1PW2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09EE68D726FCA0E200F7DAD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		09EE68D926FCA0E200F7DAD9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,7 +58,6 @@
 		09EE68D626FCA0E200F7DAD9 /* nabelova_1PW2 */ = {
 			isa = PBXGroup;
 			children = (
-				0970FA6D270216F600C0DEE6 /* UIView_Pin.swift */,
 				09EE68D726FCA0E200F7DAD9 /* AppDelegate.swift */,
 				09EE68D926FCA0E200F7DAD9 /* SceneDelegate.swift */,
 				09EE68DB26FCA0E200F7DAD9 /* ViewController.swift */,
@@ -66,6 +65,7 @@
 				09EE68E026FCA0E300F7DAD9 /* Assets.xcassets */,
 				09EE68E226FCA0E300F7DAD9 /* LaunchScreen.storyboard */,
 				09EE68E526FCA0E300F7DAD9 /* Info.plist */,
+				09D4AE6C271C4FD4009BE775 /* UIView_Pin.swift */,
 			);
 			path = nabelova_1PW2;
 			sourceTree = "<group>";
@@ -142,7 +142,7 @@
 				09EE68DC26FCA0E200F7DAD9 /* ViewController.swift in Sources */,
 				09EE68D826FCA0E200F7DAD9 /* AppDelegate.swift in Sources */,
 				09EE68DA26FCA0E200F7DAD9 /* SceneDelegate.swift in Sources */,
-				0970FA6E270216F600C0DEE6 /* UIView_Pin.swift in Sources */,
+				09D4AE6D271C4FD4009BE775 /* UIView_Pin.swift in Sources */,
 				09EE68EE26FD142400F7DAD9 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
